@@ -1,0 +1,37 @@
+BAR DO VAQUINHA — SITE DEMONSTRATIVO
+Guararapes - SP
+
+COMO ABRIR
+1. Extraia todos os arquivos do ZIP para uma mesma pasta.
+2. Abra o arquivo index.html em um navegador.
+3. As páginas usam o arquivo compartilhado style.css e o script.js.
+
+PÁGINAS
+- index.html: início
+- bebidas.html: refrigerantes, água e sucos
+- salgadinhos.html: Cheetos, Doritos, Ruffles e Cebolitos
+- doces.html: paçoca, pé de moleque e pirulitos
+- petiscos.html: sugestões de petiscos tradicionais de boteco
+- adultos.html: área informativa +18
+- estudantes.html: itens sem álcool para estudantes
+- promocoes.html: espaço para ofertas semanais
+- horarios.html: funcionamento e localização
+- sobre.html: apresentação do estabelecimento
+
+ANTES DE PUBLICAR
+- Confirmar produtos e marcas realmente vendidos.
+- Inserir preços reais e atualizar promoções semanalmente.
+- Confirmar horários e endereço completo.
+- Substituir imagens ilustrativas por fotografias próprias, se possível.
+- As fotografias atuais são carregadas de URLs externas do Unsplash; é necessário internet para exibi-las.
+- Não usar a página +18 para promover bebidas a menores. A venda/fornecimento de álcool a crianças e adolescentes é proibida pelo ECA.
+- Os preços e horários não foram inventados; os campos pendentes estão identificados.
+
+PESQUISA E REFERÊNCIAS
+A estrutura do cardápio combina itens solicitados (Coca-Cola, Pepsi, Fanta, Sprite, água, Guaraná, sucos, Cheetos, Doritos, Ruffles, Cebolitos, paçoca, pé de moleque e pirulitos) com categorias comuns em bares e botecos brasileiros, como cervejas, petiscos e combos.
+Referência de gestão de cardápio: Sebrae — Cardápio de Sucesso:
+https://sebrae.com.br/Sebrae/Portal%20Sebrae/UFs/MS/Anexos/2024/Cardapio%20de%20sucesso.pdf
+Referência legal: Estatuto da Criança e do Adolescente, arts. 81 e 243:
+https://www.planalto.gov.br/ccivil_03/leis/l8069compilado.htm
+
+Observação: este projeto é um protótipo front-end estático. Não possui sistema de estoque, pedidos, pagamentos ou painel administrativo.
